@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: #01BAEF;
+    background-color:#380036;
+}
+
+.container {
+    width: 100vw;
+    text-align: center;
+    font-size: 36px;
+}
+
+.letter {
+    display: inline-block;
+    padding-left: 2px;
+}
+
+.hide {
+    transform: translateY(-25px)
+}
+
